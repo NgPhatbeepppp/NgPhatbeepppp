@@ -73,12 +73,10 @@
 ---
 
 ## ✨ Contribution Constellation
-<p align="center">
-  <img src="https://i.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="constellation gif"/>
-</p>
-<p align="center"><sub>*Your commits lighting up like stars in the universe*</sub></p>
+<div align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 12px;">
+  <img src="./assets/constellation.gif.gif" width="600" alt="cosmic"/>
+</div>
 
----
 
 ## 🚀 Astronomy Picture of the Day
 <p align="center">
